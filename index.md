@@ -8,7 +8,7 @@ layout: default
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[Instagram](https://instagram.com/vallankumous/), [GitHub](https://github.com/ssigrid)
 
 ## Contact
 
