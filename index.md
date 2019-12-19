@@ -4,8 +4,9 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> 
+<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> I'm First_name Last_name and I'm majoring in Linguistics at University of Helsinki. In the future I will most likely concenrate in Language technology. 
 
+Outside of academic world I have intrests in agriculture and literature, of which the first is a seasonal hobby and the latter is some what a habit, which I'm not willing to let go. 
 ## Find me on
 
 [Instagram](https://instagram.com/vallankumous/), [GitHub](https://github.com/ssigrid)
