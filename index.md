@@ -24,6 +24,9 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Projects
 
+[cmdline-course](https://github.com/ssigrid/cmdline-curse)
+
+I'm currently working on a Command Line Tools for Linguistics -course. More on this under _Command-Line Course_. 
 ## Misc. 
 
 [Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
