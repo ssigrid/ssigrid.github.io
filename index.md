@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/realme.jpg" alt="Photo" hspace="20" width="30%" align="right"/> I'm Actual Person and I'm majoring in Linguistics at University of Helsinki. In the future I will most likely concenrate in Language technology. 
+<img src="assets/images/actuallyme.jpg" alt="Photo" hspace="20" width="30%" align="right"/> I'm Actual Person and I'm majoring in Linguistics at University of Helsinki. In the future I will most likely concenrate in Language technology. 
 
 Outside of academic world I have intrests in agriculture and literature, of which the first is a seasonal hobby and the latter is some what a habit, which I'm not willing to let go. 
 
